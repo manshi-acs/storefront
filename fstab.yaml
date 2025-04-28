@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://adobe.sharepoint.com/sites/storefront1/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fstorefront1%2FShared%20Documents%2Fstore&viewid=af37ea82%2Dd3ea%2D4e96%2Db31a%2Deb3909560f7b
+    url: https://adobe.sharepoint.com/sites/storefront1/Shared%20Documents/Forms/AllItems.aspx
     type: markup
 
 folders:
