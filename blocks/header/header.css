@@ -1,3 +1,23 @@
+/* .header{
+  width: 100vw;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  padding-top: 8.5px;
+  padding-bottom: 8.5px;
+}
+.header-content{
+  color: white;
+  background-color: yellow;
+  padding: 4px;
+  border-radius: 4px;
+} 
+.nav-wrapper__content p:first-of-type {
+  text-align: center;
+  display: inline;
+  background-color: yellow;
+  color: white;
+}*/
 /* stylelint-disable selector-class-pattern */
 
 :root {
@@ -146,6 +166,7 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
 /* brand */
 header nav .nav-brand {
   min-width: 128px;
+  
 }
 
 header nav .nav-brand a {
